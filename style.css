@@ -1,0 +1,36 @@
+body{
+}
+
+
+
+.relogio{
+    background: rgba(145, 140, 140, 0.901);
+    margin: 370px;
+    
+font-size: 130px;
+    color: white;
+font-family: fantasy;
+}
+
+
+
+h1{
+background: rgba(170, 164, 164, 0.79);
+    color: black;
+    font-size: 37px;
+    margin: 10px;
+}
+
+
+header{
+    margin: 5px 10px;
+}
+
+
+
+footer{
+
+
+    background: rgba(170, 165, 165, 0.849);
+    font-family: fantasy;
+}
